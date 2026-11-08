@@ -18,6 +18,7 @@ Catálogo público de ferramentas para desenvolvimento com inteligência artific
 | [Worktrunk](https://github.com/max-sixty/worktrunk) | [max-sixty](https://github.com/max-sixty) | Gerenciamento de Git worktrees, útil para trabalho paralelo com agentes. |
 | [Vibe Coding Toolkit](https://github.com/soumatheusgomes/vibe-coding-toolkit) | [soumatheusgomes](https://github.com/soumatheusgomes) | Recursos de revisão e segurança para projetos desenvolvidos com IA. |
 | [Agent Desktop](https://github.com/vercel-labs/agent-desktop) | [Vercel Labs](https://github.com/vercel-labs) | Projeto de agente com interação com interface de desktop. |
+| [agent-qa](https://vostride.com) ([código](https://github.com/vostride/agent-qa)) | [vostride](https://github.com/vostride) | Ferramenta open source de QA para web, Android e iOS via CLI/MCP, com memória memidex, autoaperfeiçoamento revisável e evidências de execução; licença FSL-1.1-ALv2. |
 
 ## Automação, MCP e extração de dados
 
